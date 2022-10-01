@@ -1,0 +1,7 @@
+beautifulsoup4
+pymongo
+google
+dnspython
+textract
+regex
+flask
