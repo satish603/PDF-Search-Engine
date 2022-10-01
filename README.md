@@ -24,6 +24,8 @@ $ pip install -r requirements.txt
 | | |-----images
 | | |-----js
 | |-----templates
+| | |-----index.html
+| | |-----pdfurl.html
 | |----index.py
 
 
